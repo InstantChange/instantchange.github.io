@@ -123,6 +123,12 @@ body { background-color: #e5fff0; background-image: linear-gradient(225deg, #e5f
     margin: 8px;
 }
 
+.social {
+    display: block;
+    margin: -15px;
+    float:right;
+}
+
 /*Footer*/
 footer { font-size:1.1rem; color:#fff; background-color:#32A852; margin-top: 100px; line-height:1.5rem; }
  footer h3 { display:block; margin-bottom:1rem; font-size:1.3rem; font-weight:600; }
